@@ -1,7 +1,11 @@
-# Flutter FlashChat
+chitter_chatter
+A new Flutter application.
 
-A chatting app built using Flutter and Firebase
+Getting Started
+This project is a starting point for a Flutter application.
 
-Screencast:
+A few resources to get you started if this is your first Flutter project:
 
-<img src="/screencast/flash_chat.gif" width="300">
+Lab: Write your first Flutter app
+Cookbook: Useful Flutter samples
+For help getting started with Flutter, view our online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
